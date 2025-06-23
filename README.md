@@ -51,3 +51,21 @@ Age: Age (year)
 
 Outcome: Have the disease (1) or not (0)
 
+ EDA (Exploratory Data Analysis)
+   
+This is the part of the explore the dataset. The outliers and missing value analyses will be done in this part but the only point is to observe these in this part. The operation and editing for these will be done in Part 3: Pre-processing.
+
+2.1 Analyse outliers and missing values¶
+ The only process in EDA is to analyze the values. Editing of missing values and outliers will be done in the next part.
+
+Outliers
+Values that deviate considerably from the general trend in the data are called outliers. Especially in linear problems, the effects of outliers are more severe. They have less impact on tree methods, but still, need to be considered.
+
+How are outliers determined?:
+The critical point is to determine the acceptable threshold value, which are up limit and low limit. After determining the threshold value, outliers are caught based on these values. Methods by which we can catch the threshold value:
+
+Industry knowledge,
+Standard deviation approach,
+Z-score approximation,
+Boxplot(interquartile range-IQR) method (as univariate),
+LOF Method => Multivariate.
