@@ -1,6 +1,7 @@
 Data Preparation 
 FEATURE ENGINEERING & DATA PRE-PROCESSING
-Aim of the Notebook: Feature engineering and Data Pre-Processing are the most significant topics in data science. In a general opinion, %80 of the work is data preprocessing, and %20 of the work is modeling in a machine learning project, therefore, there are issues to be considered. The aim of this notebook is to be a tutorial on the approach to data preparation.
+
+Feature engineering and Data Pre-Processing are the most significant topics in data science. In a general opinion, %80 of the work is data preprocessing, and %20 of the work is modeling in a machine learning project, therefore, there are issues to be considered. The aim of this notebook is to be a tutorial on the approach to data preparation.
 
 First of all, check the what is the difference between feature engineering and data preprocessing.
 
