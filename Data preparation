@@ -7,3 +7,4 @@ First of all, check the what is the difference between feature engineering and d
 Feature Engineering: The work performed on the features (such as preprocessing, generating a new variable, etc.), and generating variables from raw data.
 
 Data Preprocessing: The process of making the data suitable before implementing a model.
+
